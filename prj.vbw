@@ -1,0 +1,8 @@
+frmMain = 101, 160, 678, 617, Z, 421, 29, 1130, 611, C
+ModOil = 110, 111, 639, 557, C
+frmOil = 0, 0, 0, 0, C, 88, 116, 665, 572, C
+modGDIPlusResize = 88, 116, 665, 573, C
+modRegionImage = 0, 0, 0, 0, C
+modOpacity = 66, 87, 643, 544, C
+modMirror = 0, 0, 0, 0, C
+modSaveJpg = 0, 0, 0, 0, C
